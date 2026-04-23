@@ -7,7 +7,6 @@ import seaborn as sns
 # ─────────────────────────────────────────────
 # PAGE CONFIG
 # ─────────────────────────────────────────────
-#HELOO 
 
 st.set_page_config(
     page_title="Online Retail Intelligence Dashboard",
